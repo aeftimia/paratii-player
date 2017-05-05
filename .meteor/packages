@@ -36,8 +36,9 @@ accounts-ui@1.1.9
 accounts-password@1.3.6
 # accounts-facebook
 # accounts-github
-twbs:bootstrap
-useraccounts:bootstrap
+# twbs:bootstrap
+# useraccounts:bootstrap
+useraccounts:unstyled
 aldeed:template-extension
 useraccounts:flow-routing
 dispatch:mocha
